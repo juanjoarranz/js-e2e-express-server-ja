@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/juanjoarranzSC/Learning%20Azure%20DevOpps/_apis/build/status/juanjoarranz.js-e2e-express-server-ja?branchName=main)](https://dev.azure.com/juanjoarranzSC/Learning%20Azure%20DevOpps/_build/latest?definitionId=1&branchName=main)
 ---
 page_type: sample
 languages:
